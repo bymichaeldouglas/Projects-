@@ -3,6 +3,10 @@
 You can use the [editor on GitHub](https://github.com/bymichaeldouglas/Projects-/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Projects
+YOu can view my projects by clicking on the title
+
+[Entertainment and Safty in Denver Neighborhoods Report](https://github.com/bymichaeldouglas/Projects-/blob/f20d83eea49d741164546c765fd103d16bb2943e/Copy%20of%20Capstone%20Full%20REPORT.pdf)
 
 ### Markdown
 
