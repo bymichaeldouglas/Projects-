@@ -8,7 +8,13 @@ YOu can view my projects by clicking on the title
 
 ```markdown
 Syntax highlighted code block
-[Entertainment and Safty in Denver Neighborhoods Report](https://github.com/bymichaeldouglas/Projects-/blob/f20d83eea49d741164546c765fd103d16bb2943e/Copy%20of%20Capstone%20Full%20REPORT.pdf)
+[Entertainment and Safty in Denver Neighborhoods Report]
+
+(https://github.com/bymichaeldouglas/Projects-/blob/f20d83eea49d741164546c765fd103d16bb2943e/Copy%20of%20Capstone%20Full%20REPORT.pdf)
+
+http://github.com - automatic!
+[GitHub](http://github.com)
+
 ```
 
 ### Markdown
